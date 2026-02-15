@@ -1,7 +1,7 @@
 # Financial Variance Analysis Dashboard | CloudSync Solutions
 
 **Analyst:** Gilchrist Jose  
-**Technology Stack:** Microsoft Excel | Power Query | Power Pivot
+**Technology Stack:** Microsoft Excel | Power Query
 **Domain:** Financial Planning & Analysis (FP&A)  
 **Date:** February 2026
 
@@ -169,7 +169,7 @@ Merge on Composite Key → Calculated Metrics → Load to Data Model
 
 ## 💻 Tools & Technologies
 
-- **Microsoft Excel 2016+**: Data modeling, pivot tables, visualization
+- **Microsoft Excel 2016+**: Data structuring, pivot tables, visualization
 - **Power Query**: ETL, data transformation, merge operations
 - **Pivot Tables**: Multi dimensional analysis
 - **Interactive Dashboards**: Slicer architecture, report connections
