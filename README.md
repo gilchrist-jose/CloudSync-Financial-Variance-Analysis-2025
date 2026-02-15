@@ -80,16 +80,16 @@ Merge on Composite Key → Calculated Metrics → Load to Data Model
 ### Financial Performance Overview
 
 **Revenue: Significant Outperformance**
-- Actual: $37.9M | Budget: $32.6M | Variance: +$5.3M (+16%)
+- Actual: $37.9M | Budget: $32.6M | Variance: +$5.3M
 - All subscription tiers exceeded targets
 - Enterprise segment is strongest performer
 
 **Operating Expenses: Mixed Performance**
-- Actual: $73.1M | Budget: $70.1M | Variance: +$1.8M (+3%)
+- Actual: $73.1M | Budget: $70.1M | Variance: +$1.8M
 - Strategic investments in growth initiatives
 
 **Net Position:**
-- Net Loss: -$35.3M (planned growth stage investment)
+- Net Loss: -$35.3M 
 - Revenue trajectory supports scaling strategy
 
 ---
@@ -102,8 +102,8 @@ Merge on Composite Key → Calculated Metrics → Load to Data Model
 - Product: -$0.1K
 
 **Attention Required (Over Budget):**
-- Operations: +$109.4K (infrastructure scaling issues)
-- Customer Success: +$71.8K (support costs with customer growth)
+- Operations: +$109.4K
+- Customer Success: +$71.8K
 
 ---
 
@@ -171,7 +171,7 @@ Merge on Composite Key → Calculated Metrics → Load to Data Model
 
 - **Microsoft Excel 2016+**: Data modeling, pivot tables, visualization
 - **Power Query**: ETL, data transformation, merge operations
-- **Pivot Tables**: Multi-dimensional analysis
+- **Pivot Tables**: Multi dimensional analysis
 - **Interactive Dashboards**: Slicer architecture, report connections
 
 ---
